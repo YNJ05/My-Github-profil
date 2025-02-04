@@ -14,7 +14,7 @@
 
 ### 🧐 About Me
 - 🔭 Currently **building my portfolio** and experimenting with cool tools.  
-- 🌱 I’m currently learning **Backend & Frontend tools**   
+- 🌱 I’m currently learning **Backend & Frontend tools.**   
 - 📨 Contact me at: **yassinnajmi5@gmail.com**.  
 
 
